@@ -66,24 +66,21 @@ body {
   color: #2c3e50;
 }
 
-.team {
+.contatti {
   padding: 3rem 2rem;
+  max-width: 600px;
 }
 
-.team h2 {
+.contatti h2 {
   font-size: 1.75rem;
-  margin-bottom: 2rem;
-  text-align: center;
+  margin-bottom: 1.5rem;
 }
 
-.membro {
-  background-color: #ffffff;
-  border-left: 4px solid #2c3e50;
-  padding: 1rem 1.5rem;
-  margin-bottom: 1rem;
+.contatti p {
+  margin-bottom: 0.75rem;
+  line-height: 1.6;
 }
 
-.membro h3 {
+.contatti a {
   color: #2c3e50;
-  margin-bottom: 0.25rem;
 }
